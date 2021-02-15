@@ -42,3 +42,5 @@ Tampilan Menu Utama
 ![pbo6](https://user-images.githubusercontent.com/72739074/107912154-91fa3600-6f90-11eb-892b-41bb38361a93.png)
 # Link Youtube
 https://youtu.be/S26oAoWNvrA
+
+https://youtu.be/IsKnUyqZobQ
